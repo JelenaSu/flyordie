@@ -1,0 +1,3 @@
+# hellooo
+
+kreiran file na GitHub-u pa cemo ga pull-ovati sa desktop-a
